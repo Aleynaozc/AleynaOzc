@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aleynaozcelik-portfolio.netlify.app/](https://aleynaozcelik-portfolio.netlify.app/)
 
-- 💬 Ask me about **Js,HTML5,CSS3,MSSQL,ASP.NET Core 6,WebAPI**
+- 💬 Ask me about **Js,HTML5,CSS3,MSSQL,WebAPI**
 
 - 📫 How to reach me **aleynaozcelik48@gmail.com**
 
